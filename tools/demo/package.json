@@ -1,0 +1,6 @@
+{
+  "name": "weblink-demo-recorder",
+  "private": true,
+  "description": "Drives the Flutter web build in headless Chrome and records the demo video",
+  "dependencies": { "puppeteer-core": "23.11.1" }
+}
